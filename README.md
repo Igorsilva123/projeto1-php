@@ -1,3 +1,6 @@
+alunos: Igor da Silva de Brito, Iago da Silva de Brito
+
+
 criacao do banco
 
 CREATE DATABASE projeto_1;
