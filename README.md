@@ -35,3 +35,5 @@ Ler: listar produtos cadastrados e exibir detalhes.
 Atualizar: editar informações de produtos existentes.
 
 Excluir: remover produtos do sistema.
+
+todas as operacões sao executadas no admin so a listagem de produtos que esta na pagina principal na aba de produtos
